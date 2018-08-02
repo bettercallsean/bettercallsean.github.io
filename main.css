@@ -18,14 +18,10 @@ h1 {
 }
 
 #nav {
-  margin-left: 450px;
-  margin-right: 450px;
   font-size: 20px;
   letter-spacing: 0.8px;
   text-transform: uppercase;
   text-align: center;
-  border-bottom-style: dotted;
-  border-bottom-width: thin;
   padding-left: 20px;
 }
 
@@ -53,13 +49,16 @@ h1 {
   text-align: center;
   padding: 30px 0 30px;
   border-bottom-style: dotted;
-  border-bottom-width: thin;
-  margin: 0 550px 0 550px;
+  border-top-style: dotted;
+  border-width: thin;
+  margin: 0 400px 0 400px;
 }
 
 #me p {
-  padding-top: 20px;
+  padding-top: 15px;
   font-size: 20px;
   color: rgb(77, 77, 77);
   line-height: 1.5;
+  box-sizing: inherit;
+  word-wrap: break-word;
 }
