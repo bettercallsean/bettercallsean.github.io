@@ -1,0 +1,61 @@
+body {
+  font-family: "Raleway", Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  overflow: hidden;
+}
+
+header {
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding-top: 60px;
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  margin: 0 8% 0 8%;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 8%;
+}
+
+nav {
+  font-size: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: inline-block;
+}
+
+nav li {
+  margin: 8px;
+  display: inline;
+  padding-bottom: 4%;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#about-me {
+  text-align: center;
+  padding: 30px;
+  margin: 0 8% 5% 8%;
+  border-bottom-style: dotted;
+  border-width: thin;
+  box-sizing: inherit;
+}
+
+#about-me p {
+  padding-top: 15px;
+  font-size: 20px;
+  color: rgb(77, 77, 77);
+}
