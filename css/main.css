@@ -22,18 +22,9 @@ h1 {
   font-weight: bold;
 }
 
-nav {
-  font-size: 20px;
-}
-
-nav ul {
-  list-style: none;
-  display: inline-block;
-}
-
 nav li {
-  margin: 8px;
-  display: inline;
+  margin: 10px;
+  font-size: 20px;
 }
 
 a:hover, a {
@@ -46,7 +37,7 @@ a:hover, a {
 }
 
 #description {
-  padding-top: 2%;
+  padding-top: 4%;
   font-size: 20px;
   color: rgb(77, 77, 77);
 }
