@@ -37,6 +37,10 @@ a:hover{
   color: rgb(100, 100, 100);
 }
 
+a#dissertation{
+  color: rgb(0, 153, 255);
+}
+
 #aboutme {
   padding-top: 2%;
 }
