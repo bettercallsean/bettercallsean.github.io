@@ -37,12 +37,20 @@ a:hover{
   color: rgb(100, 100, 100);
 }
 
-a#dissertation{
+a#dissertation-link{
   color: rgb(0, 153, 255);
 }
 
-#aboutme {
+a#dissertation-link:hover{
+  color: rgb(103, 199, 255);
+}
+
+.aboutme {
   padding-top: 2%;
+}
+
+.mugshot {
+  border-radius: 100%;
 }
 
 #description {
